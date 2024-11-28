@@ -923,7 +923,7 @@ public class UAWBlocksDefence {
 			ammoPerShot = 20;
 			maxAmmo = ammoPerShot * 3;
 
-			range = 65 * tilesize;
+			range = 150 * tilesize;
 			inaccuracy = 4f;
 			rotateSpeed = 1f;
 			shake = 48f;
